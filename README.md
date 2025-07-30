@@ -1,20 +1,4 @@
 <<<<<<< HEAD
 # video_call_task
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# video_chat_group
->>>>>>> e24250531f52e8c7d3e3baea3ebbb82d31e4a23a
+This is a demo app for video chat stream group and a special task for guitara group .
